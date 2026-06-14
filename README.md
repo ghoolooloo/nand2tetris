@@ -47,3 +47,5 @@ For the web ide, [click here](https://nand2tetris.github.io/web-ide/).
 加法器：A+B:c,S = A.0+B.0:r,S.0; A.1+B.1,r:i,S.1; …
 
 自增器：A+1
+
+算术逻辑单元：
