@@ -49,3 +49,7 @@ For the web ide, [click here](https://nand2tetris.github.io/web-ide/).
 自增器：A+1
 
 算术逻辑单元：
+
+## 存储
+
+数据触发器：DFF = 
